@@ -1,5 +1,5 @@
 
-## Bienvedios!
+## Bienvenidos!
 
 Estamos encantados de que te unas a GitHub como líder comunitario y esperamos con interés la energía y la experiencia que aportarás a nuestro grupo.
 ¡Sigamos haciendo que la tecnología de código abierto sea accesible, agradable y exitosa! 
